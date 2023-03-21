@@ -1,16 +1,28 @@
-### Hi there 👋
-
 <!--
+### Hi there 👋
 **sushant-kapoor17/sushant-kapoor17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sushant-kapoor17" alt="sushant-kapoor17"/></a> </p>
 -->
+
+<h2 align="center">Hi 👋, I'm Sushant Kapoor</h1>
+<h4 align="center">Cloud Engineer based in India, who has an ardent desire to contribute to the open source community. </h3>
+<br/>
+
+- 🔭 I’m currently immersed in **[Terraform](https://github.com/hashicorp/terraform), [Go Lang](https://github.com/golang/go), [Kubernetes](https://github.com/kubernetes/kubernetes), [CloudFoundry](https://github.com/cloudfoundry) and Cloud Native Microservices**
+
+- 📄 Know about my experiences [Certified Kubernetes Administrator](https://www.credly.com/badges/7486952b-3388-448c-a08d-60ab54ab0b05/public_url
+), [Hashicorp Certified Terraform Associate](https://www.credly.com/badges/5e1aa29b-3ddd-4564-a206-be668f59cb65/public_url
+),  [Certified Kubernetes Application Developer](https://www.credly.com/badges/da7e4da7-d8db-476b-ac7c-715a111298d0/public_url
+),  [Cloud Foundry Certified Developer](https://www.credly.com/badges/a6e01af5-6359-4371-8e01-3037fafbbcd9/public_url)
+
+- ⚡ Fun fact **besides being a developer, I am an avid fan of [Liverpool FC](www.liverpoolfc.com)**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/sushant17284" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sushant17284" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="https://www.datocms-assets.com/2885/1620155116-brandhcterraformverticalcolor.svg" alt="terraform" width="40" height="40"/> </a>
+ <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.cloudfoundry.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/cloudfoundry/logos/master/CF_Icon_4-colour.svg" alt="cloudfoundry" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>  <a href="https://aws.amazon.com/eks/" target="_blank" rel="noreferrer"> <img src="https://theithollow.com/wp-content/uploads/2018/07/amazon-eks-resize.png" alt="eks" width="40" height="40"/> </a> <a href="https://argoproj.github.io/cd" target="_blank" rel="noreferrer"> <img src="https://cncf-branding.netlify.app/img/projects/argo/stacked/color/argo-stacked-color.svg" alt="argocd" width="40" height="40"/> </a> <a href="https://newrelic.com/" target="_blank" rel="noreferrer"> <img src="https://newrelic.com/themes/custom/erno/assets/mediakit/new_relic_logo_vertical.svg" alt="newrelic" width="40" height="40"/> </a>  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://prometheus.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="prometheus" width="40" height="40"/> </a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a><a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a>  </p>
